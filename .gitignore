@@ -2,4 +2,8 @@
 *.log
 *.sublime-*
 *.DS_Store
-/MNIST_data
+checkpoint
+*.ipynbcheckpoints
+MNIST//MNIST_data
+MNIST/data
+MNIST/data*
