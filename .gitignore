@@ -3,7 +3,7 @@
 *.sublime-*
 *.DS_Store
 checkpoint
-*.ipynbcheckpoints
+*.ipynb_checkpoints
 MNIST//MNIST_data
 MNIST/data
 MNIST/data*
